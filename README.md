@@ -1,6 +1,6 @@
-# Linear Regression, Decision Tree and Random Forest
- It includes homes sold between May 2014 and May 2015. It's a great dataset for evaluating simple regression models.
- according to Data this is the brief of the depended variables
+# Linear Regression, Decision Tree and Random Forest, Copyright = https://creativecommons.org/publicdomain/zero/1.0/
+It includes homes sold between May 2014 and May 2015. It's a great dataset for evaluating simple regression models.
+according to Data this is the brief of the depended variables
 the Data Set is of 1 year
 id: Unique ID for each home sold
 date: Date of the home sale
