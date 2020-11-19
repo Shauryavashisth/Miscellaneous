@@ -9,4 +9,5 @@ Upcoming
 Clustering,
 Time Serise,
 Post Pruning and Pre Pruning,
-Situation of OverFitting and Underfitting
+Situation of OverFitting and Underfitting,
+(Multicollinearity)Variance Inflation Factor
