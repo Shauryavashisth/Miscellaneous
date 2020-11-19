@@ -6,7 +6,7 @@ Random Forest,
 Conversion of Categorical Variable With Encoding and Dummy
 
 Upcoming
-Clustering
-Time Serise
-Post Pruning and Pre Pruning
+Clustering,
+Time Serise,
+Post Pruning and Pre Pruning,
 Situation of OverFitting and Underfitting
